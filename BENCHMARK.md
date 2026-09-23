@@ -1,6 +1,6 @@
 # OrcaRouter benchmark
 
-_10 prompts × 4 models · last run 2026-09-22 09:36 UTC_
+_10 prompts × 4 models · last run 2026-09-23 09:42 UTC_
 
 **TL;DR**: routing the cheapest capable model saved **~0%** vs. the most expensive (`llama-3.3-70b-versatile` → `gpt-4o-mini`)
 
